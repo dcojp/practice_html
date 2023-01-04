@@ -1,4 +1,4 @@
-import score from 'https://dcojp.github.io/practice_html/score.json' assert {type: 'json'}
+// import score from 'https://dcojp.github.io/practice_html/score.json' assert {type: 'json'}
 
 let score = [
     {
