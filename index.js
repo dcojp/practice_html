@@ -5,6 +5,8 @@ const th = document.createElement('th');
 
 const $tab = document.getElementById('js-tab');
 
-$tab.appendChild(tr);
+trAppended = $tab.appendChild(tr);
+th.innerText = 'Tp0';
+trAppended.appendChild(th);
 
 console.log(score[0].title);
